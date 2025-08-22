@@ -21,8 +21,8 @@ A Python application that helps you clean and organize files on your computer. K
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/file-organizer-cleaner.git
-   cd file-organizer-cleaner
+   git clone https://github.com/NJBrand/file-organizer.git
+   cd file-organizer
    ```
 
 2. Install required packages:
